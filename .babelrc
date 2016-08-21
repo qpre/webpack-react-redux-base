@@ -1,0 +1,13 @@
+{
+    "presets": [
+      ["es2015", { "modules": false}],
+      "react"
+    ],
+    "plugins": [
+      "transform-object-rest-spread",
+      "syntax-object-rest-spread",
+      "transform-minify-booleans",
+      "transform-property-literals",
+      "transform-simplify-comparison-operators"
+    ]
+}
