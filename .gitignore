@@ -78,3 +78,5 @@ flycheck_*.el
 
 # projectiles files
 .projectile
+
+.DS_Store
